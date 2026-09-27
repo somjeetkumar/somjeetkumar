@@ -45,6 +45,5 @@ Django REST Framework, Node.js and modern backend technologies.
 
 ### 📫 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN
-- Portfolio: YOUR_PORTFOLIO
-- Email: YOUR_EMAIL
+- LinkedIn: www.linkedin.com/in/somjeet-kumar-ba6196270
+- Email: somjeetkumar30@gmail.com
