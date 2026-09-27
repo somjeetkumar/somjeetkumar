@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Somjeet Kumar 👋
 
-<!--
-**somjeetkumar/somjeetkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Developer | Python | Django | DRF
 
-Here are some ideas to get you started:
+I build backend and full-stack web applications using Python, Django,
+Django REST Framework, Node.js and modern backend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Backend**
+- Python
+- Django
+- Django REST Framework
+- Node.js
+- Express.js
+
+**Frontend**
+- React
+- JavaScript
+- HTML
+- CSS
+- Tailwind CSS
+
+**Database**
+- PostgreSQL
+- MySQL
+- MongoDB
+- Redis
+
+**DevOps & Tools**
+- Docker
+- Docker Compose
+- AWS
+- Git & GitHub
+- GitHub Actions
+- Celery
+- k6
+
+### 🚀 Featured Projects
+
+- 🎓 LMS — Django REST Framework + React
+- 📋 Task Management System
+- 🏠 Room Rent Platform
+- ⚡ Django REST API with Redis & Performance Testing
+
+### 📫 Connect With Me
+
+- LinkedIn: YOUR_LINKEDIN
+- Portfolio: YOUR_PORTFOLIO
+- Email: YOUR_EMAIL
